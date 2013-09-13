@@ -1,5 +1,5 @@
 GPP = g++
-OUTPUTNAME = tic-tac-toe
+OUTPUTNAME = "tic-tac-toe"
 all: boardGame
 
 boardGame: checkBoard.o tools.o
